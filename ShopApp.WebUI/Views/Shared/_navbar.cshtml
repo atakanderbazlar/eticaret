@@ -1,0 +1,73 @@
+﻿<nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+    <div class="container">
+        <a class="navbar-brand" href="/"><img class="logo" src="~/img/logo.png" alt="" style="width:100px;"></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item">
+                    <a href="/" class="nav-link active">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a asp-controller="Shop" asp-action="List" class="nav-link">Products</a>
+                </li>
+
+                @if (User.Identity.IsAuthenticated) //kullanıcı uygulamaya login olmuşsa
+                {
+                    <li class="nav-item">
+                        <a asp-controller="Cart" asp-action="Index" class="nav-link">Cart</a>
+                    </li>
+                    <li class="nav-item">
+                        <a asp-controller="Cart" asp-action="GetOrders" class="nav-link">Orders</a>
+                    </li>
+                    if (User.IsInRole("admin"))
+                    {
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" id="dropdown05" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Admin Sections</a>
+                            <div class="dropdown-menu" aria-labelledby="dropdown05">
+                                <a asp-controller="Admin" asp-action="CreateProduct" class="dropdown-item">Add Product</a>
+                                <a asp-controller="Admin" asp-action="ProductList" class="dropdown-item">Admin Products</a>
+                                <a asp-controller="Admin" asp-action="CreateCategory" class="dropdown-item">Add Category</a>
+                                <a asp-controller="Admin" asp-action="CategoryList" class="dropdown-item">Admin Categories</a>
+                            </div>
+                        </li>
+
+                    }
+                }
+
+            </ul>
+            <form asp-controller="Home" asp-action="Index" class="form-inline mt-2 mt-md-0 ml-auto">
+                <input class="form-control mr-sm-2" type="text" name="search" id="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success my-2 my-sm-0" type="submit" value="Search">Search</button>
+            </form>
+
+            <ul class="navbar-nav ml-auto">
+
+                @if (User.Identity.IsAuthenticated) //kullanıcı uygulamaya login olmuşsa
+                {
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="dropdown05" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">@User.Identity.Name</a>
+                        <div class="dropdown-menu" aria-labelledby="dropdown05">
+                            <a asp-controller="Account" asp-action="Logout" class="dropdown-item">Logout</a>
+                        </div>
+                    </li>
+                }
+                else
+                {
+
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="dropdown05" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Login</a>
+                        <div class="dropdown-menu" aria-labelledby="dropdown05">
+                            <a asp-controller="Account" asp-action="Login" class="dropdown-item">Login</a>
+                            <a asp-controller="Account" asp-action="Register" class="dropdown-item">Register</a>
+                        </div>
+                    </li>
+                }
+
+            </ul>
+        </div>
+        </div>
+</nav>

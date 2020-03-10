@@ -1,0 +1,26 @@
+C:\Users\ataka\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\51-Initialize Cart\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.deps.json
+C:\Users\ataka\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\51-Initialize Cart\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.runtimeconfig.json
+C:\Users\ataka\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\51-Initialize Cart\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.runtimeconfig.dev.json
+C:\Users\ataka\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\51-Initialize Cart\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+C:\Users\ataka\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\51-Initialize Cart\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+C:\Users\ataka\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\51-Initialize Cart\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\ataka\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\51-Initialize Cart\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\ataka\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\51-Initialize Cart\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\ataka\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\51-Initialize Cart\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ataka\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\51-Initialize Cart\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.AssemblyInfo.cs
+C:\Users\ataka\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\51-Initialize Cart\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csproj.CopyComplete
+C:\Users\ataka\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\51-Initialize Cart\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+C:\Users\ataka\OneDrive\Masaüstü\Katmanli-Mimari-ETicaret-Core-Mvc-master\Katmanli-Mimari-ETicaret-Core-Mvc-master\src\2-ShopApp\51-Initialize Cart\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+C:\Users\ataka\source\repos\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.deps.json
+C:\Users\ataka\source\repos\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.runtimeconfig.json
+C:\Users\ataka\source\repos\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.runtimeconfig.dev.json
+C:\Users\ataka\source\repos\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+C:\Users\ataka\source\repos\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
+C:\Users\ataka\source\repos\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.Entities.dll
+C:\Users\ataka\source\repos\ShopApp\ShopApp.DataAccess\bin\Debug\netcoreapp2.2\ShopApp.Entities.pdb
+C:\Users\ataka\source\repos\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csprojAssemblyReference.cache
+C:\Users\ataka\source\repos\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ataka\source\repos\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.AssemblyInfo.cs
+C:\Users\ataka\source\repos\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.csproj.CopyComplete
+C:\Users\ataka\source\repos\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.dll
+C:\Users\ataka\source\repos\ShopApp\ShopApp.DataAccess\obj\Debug\netcoreapp2.2\ShopApp.DataAccess.pdb
